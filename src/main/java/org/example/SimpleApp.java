@@ -1,6 +1,6 @@
-package com.example;
+package org.example;
 
-public class App {
+public class SimpleApp {
 
     public int add(int a, int b) {
         return a + b;

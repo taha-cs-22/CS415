@@ -1,12 +1,11 @@
 package org.example;
 
-import com.example.App;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class AppTesting {
+public class SimpleAppTesting {
 
-    private App calculator = new App();
+    private SimpleApp calculator = new SimpleApp();
 
     @Test
     public void testAdd() {
